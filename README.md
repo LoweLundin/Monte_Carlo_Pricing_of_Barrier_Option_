@@ -11,7 +11,7 @@ A method to compute the delta of the option has also been implemented.
 
 In MATLAB, simply run:
 
-<p align="center"><img src="/tex/a08a59a0088e41294d768fa89f5e9381.svg?invert_in_darkmode&sanitize=true" align=middle width=698.81470065pt height=80.36530425pt/></p>
+<p align="center"><img src="/tex/1c76f8f31b11561da5b8d397bd1f5865.svg?invert_in_darkmode&sanitize=true" align=middle width=705.2987353499999pt height=80.36530425pt/></p>
 
 ## Related information
 
