@@ -6,10 +6,4 @@ Using Monte Carlo methods to price barrier options, this specific implementation
 
 In MATLAB, simply run:
 
-\begin{itemize}
-\item runMethods.m , with desired parameters to compute price of optio
-\item plotMethods.m , to plot estimated price and error of option as a function of timesteps/simulation
-\item deltaMC.m , to compute delta of option
-
-
-
+<p align="center"><img src="/tex/2d83b243c985e7ed71c001f063767b82.svg?invert_in_darkmode&sanitize=true" align=middle width=694.2484757999999pt height=80.36530425pt/></p>
