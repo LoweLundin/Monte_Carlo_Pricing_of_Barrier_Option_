@@ -15,4 +15,4 @@ In MATLAB, simply run:
 
 ## Related information
 
-Presentation hostad on [Dropbox](https://www.dropbox.com/s/gggh809j7vy6sdr/Presentation_Barrier_Option_MC.pdf?dl=0)
+Presentation hosted on [Dropbox](https://www.dropbox.com/s/gggh809j7vy6sdr/Presentation_Barrier_Option_MC.pdf?dl=0)
