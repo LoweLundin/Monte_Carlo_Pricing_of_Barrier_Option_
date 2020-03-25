@@ -10,6 +10,4 @@ In MATLAB, simply run:
 \item runMethods.m , with desired parameters to compute price of optio
 \item plotMethods.m , to plot estimated price and error of option as a function of timesteps/simulation
 \item deltaMC.m , to compute delta of option
-
-
-
+\end{itemize}
