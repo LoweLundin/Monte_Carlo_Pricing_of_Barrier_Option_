@@ -1,4 +1,4 @@
-# Pricing-of-Barrier-Option-Monte-Carlo
+# Pricing of Barrier Options Using Monte Carlo Methods
 
 Produced for course Computational Finance: Pricing and Valuation, Autumn 2019. The project uses Monte Carlo methods to price barrier options, this specific implementation is for Up-And-Out barrier options, but can easily be modified to work for other barrier options as well. 
 
