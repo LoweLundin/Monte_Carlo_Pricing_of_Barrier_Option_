@@ -12,8 +12,8 @@ A method to compute the delta of the option has also been implemented.
 In MATLAB, simply run:
 
 * runMethods.m , with desired parameters to compute price of option.
-* plotMethods.m , to plot estimated price and error of option as a function of timesteps/simulations
-* deltaMC.m , to compute delta of option. Compare to slide 8 in presentation $\gamma$
+* plotMethods.m , to plot estimated price and error of option as a function of timesteps/simulations.
+* deltaMC.m , to compute delta of option. Compare to slide 8 in presentation.
 
 ## Related information
 
