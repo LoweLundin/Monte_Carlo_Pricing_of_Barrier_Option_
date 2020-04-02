@@ -7,6 +7,8 @@ barrier.m is a normal Monte Carlo simulation, while barrierExit.m also uses a co
 The results are compared to an analyical solution and plotted as a function of the number of timesteps and/or simulations. 
 A method to compute the delta of the option has also been implemented.
 
+* sdf
+
 ## Usage
 
 In MATLAB, simply run:
