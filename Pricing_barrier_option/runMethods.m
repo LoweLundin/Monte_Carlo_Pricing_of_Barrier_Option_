@@ -38,7 +38,7 @@ for steps = times
         barExitMat(stepIndex, simIndex) = barrierExit(s_zero, K, B, r, sigma, sigVar, T, gamma, sims, steps);
         barExactMat(stepIndex, simIndex) = exactValue;
         
-        simIndex = simIndex +1;     
+        simIndex = simIndex +1;
     end
     
     stepIndex = stepIndex +1;
